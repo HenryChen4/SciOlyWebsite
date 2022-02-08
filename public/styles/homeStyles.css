@@ -1,0 +1,63 @@
+.about-container {
+    padding: 5%;
+    text-align: left;
+    margin-bottom: 10%;
+}
+
+.about-content {
+    padding: 5%;
+}
+
+.about-text-content {
+    position: relative;
+    top: 45%;
+    transform: translateY(-50%); 
+}
+
+.about-image {
+    width: 100%;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.diagnol-box {
+    background: rgb(238,255,255);
+    background: linear-gradient(90deg, rgba(238,255,255,1) 0%, rgba(246,244,220,1) 50%, rgba(199,228,231,1) 100%);
+    transform: skewY(-5deg);
+    padding: 5%;
+}
+
+.content { 	
+    width: 100%;
+    transform: skewY(5deg);
+}
+
+.officer-card {
+    margin: 5% auto;
+}
+
+.officer-row {
+    padding: 0 10%;
+}
+
+.officer-header {
+    text-align: right;
+    padding: 0 12%;
+}
+
+.officer-image {
+    height: 22rem !important;
+}
+
+.diagnol-box-2 {
+    background: rgb(21,30,92);
+    background: linear-gradient(90deg, rgba(21,30,92,1) 0%, rgba(23,78,138,1) 50%, rgba(24,33,102,1) 100%);
+    transform: skewY(-5deg);
+    padding: 5%;
+}
+
+.content-2 {
+    width: 100%;
+    transform: skewY(5deg);
+}

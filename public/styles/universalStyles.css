@@ -1,0 +1,28 @@
+body {
+    background-color: #1D2D44 !important;
+    color: white !important;
+}
+
+a:hover {
+    color: #748CAB !important;
+}
+
+.background-navy {
+    background-color: #748CAB !important;
+}
+
+.font-white {
+    color: white !important;
+}
+
+.font-black {
+    color: black !important;
+}
+
+.font-navy {
+    color: #2f5385 !important;
+}
+
+.background-gray {
+    background-color: #d9d9d9 !important;
+}

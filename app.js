@@ -22,7 +22,7 @@ app.get('/calendar', (req, res)=>{
     res.render('500')
 })
 
-app.get('/projects', (req, res)=>{
+app.get('/files', (req, res)=>{
     res.render('500')
 })
 
@@ -31,7 +31,7 @@ app.get('/blog', (req, res)=>{
 })
 
 app.get('*', (req, res)=>{
-    res.render('400')
+    res.render('404')
 })
 
 app.listen(port, ()=>{

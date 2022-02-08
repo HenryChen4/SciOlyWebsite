@@ -1,14 +1,14 @@
 body {
-    background-color: #1D2D44 !important;
+    background-color: #588157 !important;
     color: white !important;
 }
 
 a:hover {
-    color: #748CAB !important;
+    color: #1e6091 !important;
 }
 
-.background-navy {
-    background-color: #748CAB !important;
+.background-green {
+    background-color: #34a0a4 !important;
 }
 
 .font-white {
